@@ -1,4 +1,3 @@
-
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: documentacion DAWE
@@ -10,4 +9,9 @@ site:
       default: true
       content:
         directory: ./
-
+    - type: space
+      key: space-2
+      title: Docs
+      path: docs-1
+      content:
+        directory: ./docs-1
